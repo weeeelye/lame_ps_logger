@@ -10,3 +10,7 @@ Find the keylogger entries in $env:temp\key.log
 Run it: Project1.exe <FULL PATH TO LOG FILE (OPTIONAL)>
 
 3) None of these are tested on a shell so they probably won't work well. May be enough for a POC but not good for real pentest.
+
+4) Packed exe with mpress and no virus detected.
+
+![image](https://user-images.githubusercontent.com/18734562/127736969-9a4f8b2d-5b8f-435b-b09c-335b36ba5d73.png)
